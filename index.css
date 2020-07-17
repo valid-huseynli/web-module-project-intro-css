@@ -1,0 +1,121 @@
+
+body{
+    background-color: white;
+    width: 0 auto;
+    height: 0 auto;
+    font-family: "Roboto Mono";
+    font-weight: 300;
+    text-align: center;
+    margin: .5rem;
+    
+}
+
+.Planyourvisit{
+    background-color:#FF764E;
+    color:white;
+    margin: 0 4rem;
+    border: .1rem solid lightgray;
+    padding: .2rem;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: .2rem;
+
+}
+.LearnaboutthePark{
+    background-color:#5ED3EB;
+    color:white;
+    margin: 0 4rem;
+    border: .1rem solid lightgray;
+    padding: .2rem;
+    border-radius: 25px;
+    text-decoration: none;
+    margin-bottom: .2rem;
+    display: inline-block;
+}
+.GetInvolved{
+    background-color:#FFCD69;
+    color:white;
+    margin: 0 4rem;
+    border: .1rem solid lightgray;
+    padding: .2rem;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: .2rem;
+    display:inline;
+}
+
+.section2{
+display: flex;
+margin-left: 5rem;
+padding: .9rem;
+}
+
+
+.info h1{
+    padding-left: 9rem;
+    font-family:"Chelsea Market";
+
+}
+.info h2 {
+    font-size: 1rem; 
+    padding-left: 10rem;
+}
+
+.info h3 {
+  width: 9rem;
+  height: 5rem;
+  font-size: .8rem;
+  line-height: 1;
+  padding-left: 17rem;
+}
+
+.section2 img {
+    border-radius: 100%;
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+}
+
+.section3 {
+ 
+    background-color: #DDB9A3;
+    line-height: 2;
+    padding: 0px 10px 0px 10px;
+    margin: 20px;
+
+}
+.section4{
+     text-align: center;
+     padding: .5rem;
+     margin: .5rem;
+}
+.section4 p{
+  margin-left: auto;
+  margin-right: auto;
+  width: 9rem;
+  height: 5rem;
+  font-size: .6rem;
+  line-height: 1;
+  
+
+}
+.section4 img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5rem;
+  height: 5rem;
+}
+
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.footer_img img{
+    height: 30vh;
+    width: 100vw;
+}
+.section5{
+    background-color: #F9E7DC;
+}
